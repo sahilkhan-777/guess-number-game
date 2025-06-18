@@ -73,6 +73,7 @@ body{
 @media (max-width: 600px){
     body{
         padding: 20px;
+        height: 100vh;
     }
     .container{
         width: 100%;
